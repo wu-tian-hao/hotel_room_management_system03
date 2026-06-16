@@ -1,1 +1,21 @@
-# hotel_room_management_system03
+# 酒店客房管理系统
+
+## 一、项目简介
+本项目为酒店客房管理系统，实现了用户登录、客房管理、订单管理等功能。
+
+---
+
+## 二、运行环境
+
+- JDK：8 / 11（推荐 8）
+- MySQL：5.7 / 8.0
+- 开发工具：IntelliJ IDEA
+- 操作系统：Windows / Mac
+
+---
+
+## 三、数据库配置
+
+### 1. 创建数据库
+```sql
+CREATE DATABASE hotel;
